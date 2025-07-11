@@ -42,7 +42,7 @@ As migrações serão executadas automaticamente quando você acessar a aplicaç
 - Tabela `frequencies`: Dados das 28 frequências
 - Tabela `session_reports`: Histórico de relatórios gerados
 
-### 4. Verificar Conexão
+### 4. Verificar Conexão 
 
 1. Inicie a aplicação: `npm run dev`
 2. Verifique o status de conexão no canto superior direito
